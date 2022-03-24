@@ -33,7 +33,8 @@ jobs:
           results_format: sarif
           # Read-only PAT token. To create it,
           # follow the steps in https://github.com/ossf/scorecard-action#pat-token-creation.
-          repo_token: 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
+          #repo_token: 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
+          repo_token: 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
           # Publish the results to enable scorecard badges. For more details, see
           # https://github.com/ossf/scorecard-action#publishing-results.
           # For private repositories, `publish_results` will automatically be set to `false`,
