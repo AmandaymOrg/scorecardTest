@@ -36,7 +36,7 @@ jobs:
           #repo_token: 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
           #
           #repo_token:  ${{ secrets.SCORECARD_READ_TOKEN }}
-          repo_token: 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
+          repo_token: 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
           # Publish the results to enable scorecard badges. For more details, see
           # https://github.com/ossf/scorecard-action#publishing-results.
           # For private repositories, `publish_results` will automatically be set to `false`,
